@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "配置文件读取", "配置文件读取.csproj", "{AFACBB66-E8A7-47B2-8E1A-AEA5115FC21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFACBB66-E8A7-47B2-8E1A-AEA5115FC21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFACBB66-E8A7-47B2-8E1A-AEA5115FC21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFACBB66-E8A7-47B2-8E1A-AEA5115FC21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFACBB66-E8A7-47B2-8E1A-AEA5115FC21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC2E63F-94E0-466F-A86D-98BA4F470CF3}
+	EndGlobalSection
+EndGlobal
